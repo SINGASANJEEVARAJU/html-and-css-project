@@ -1,0 +1,176 @@
+
+.project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #2ac1c1;
+    width: 100%;
+    height: 60px;
+}  
+.svg2{
+    color: white;
+}
+.link{
+    text-decoration: none;
+    margin-left: 30px;
+    color: white;
+}
+button { 
+    background-color:hwb(180 15% 11% / 0.492) ;
+    border: 3px solid yellow;
+    border-radius: 50px;
+    font-size: 15px;
+    color: yellow;
+    margin-left: 20px;
+    font-weight: bold;
+}
+ .project-1 {
+    display: flex;
+    align-items: center; 
+   padding-left: 250px;
+    background-color: darkcyan;
+    clip-path: polygon( 0 0 ,100% 0,100% 40%, 0 100%); 
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 400px;
+}
+ .project-right1{
+ position: relative;
+ margin-left: 800px;
+ margin-top: -350px;
+
+}   
+.img1{
+    position:obsolute;
+    z-index: -2;
+    overflow: visible;
+    clip-path: polygon(0 0,100% 0, 100% 100%, 0 100%);
+
+}
+ #karna {
+    color: darkcyan;
+    background-color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 50px;
+    margin-left: -5px;
+}
+.project-2{
+    margin-left: 35%;
+}
+.project-2 >img{
+    margin-bottom: -5px;
+}
+ .project-3{
+    background-color: aliceblue;
+    width: 100%;
+    height: 700px;
+} 
+ .middle{
+    margin-left:630px;
+    padding-top: 60px;
+}
+.section{
+    display: flex;
+    margin-top: 60px;
+    gap: 20px;
+}
+.image{
+    background-image: url(./images/wood\ boy.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height:700px;
+    width:500px;
+}
+.image1{
+    background-image: url(./images/social\ media.jpg);
+    background-size: contain;
+    height: 700px;
+    width: 500px;
+    background-repeat: no-repeat;
+}
+.image2{
+    background-image: url(./images/health\ care.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height:700px;
+    width:500px;
+} 
+.article{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: white;
+    width: 450px;
+    height: 100px;
+    margin-left: 17px;
+    margin-top: 200px;
+}
+.div1 >h1{
+    color: darkcyan;
+    font-weight: bold;
+    margin-top: -15px;
+}
+.div2 >p{
+    color:grey;
+    font-weight: bold;
+}
+.svg3{
+    background-color: #2ac1c1;
+    border-radius: 50%;
+    width: 40px;
+     height: 40px; 
+    color: white;
+}
+.project-4{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    width: 100%;
+    height: 500px;
+    margin-top: 90px;
+}
+.horizontal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: -350px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    background-color: black;
+    width: 100%;
+    height: 350px;
+    padding-top: 100px;
+}
+h3{
+    color:rgba(128, 128, 128, 0.156) ;
+}
+    
+p{
+    color: #2a17953b;
+    font-weight: bold;
+}
+a{
+    color: rgba(150, 149, 155, 0.645);
+    text-decoration: none;
+    margin-left: 20px;
+}  
+.achor{
+    margin-left: -22px;
+} 
+.svg5{
+    height: 15px;
+}
+ .svg1{
+    color: rgba(110, 110, 107, 0.774);
+    background-color: rgba(6, 2, 2, 0.512);
+    height: 15px;
+    margin-left: 10px;
+ }
